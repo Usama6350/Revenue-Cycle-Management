@@ -27,8 +27,10 @@ This repository contains a professionally authored PDF guide that explains the f
 
 ---
 
-## 📥 Download
+## 📥 Download & View
 
+You can download the full guide here:  
+**📄 [View the PDF on GitHub](https://github.com/Usama6350/Revenue-Cycle-Management/blob/main/Revenue_Cycle_Management.pdf)**
 You can download the full guide here:  
 **[Revenue_Cycle_Management.pdf](./Revenue_Cycle_Management.pdf)**
 
